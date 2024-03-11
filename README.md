@@ -4,12 +4,13 @@
 
 *I am currently learning at ITMO University, Neurotechnologies faculty 🎓*   
 *I am currently working as a Machine Learning Engineer at elDinero Reviews 💼*  
-*Contacts:* **eskimo0c0ld@gmail.com** **[Telegram](https://t.me/EskimoCold)**
+*Contacts:* **eskimo0c0ld@gmail.com** **[Telegram](https://t.me/EskimoCold)**  
 
 ### About me  
 - I've been learning ML and DS since I was 13 👶🏼
 - I have done a lot of ad hocs, freelance projects and pet projects 💻  
 - Motivated MLE and DA ⚡
+- <a href="https://github.com/EskimoCold/EskimoCold/blob/main/EdwardSudjian_CV.pdf">**MORE IN CV**</a> 💸  
 
 <div id="skills", align="left">
   <h3> Basic skills</h3>

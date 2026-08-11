@@ -10,6 +10,6 @@ Studying Software Engineering and Computer Systems at **ITMO University** (2023�
 - **LLM pipelines.** Structured outputs, agents, and grounding — making a model say only what the data actually supports.
 
 **Elsewhere**  
-[CV](./EdwardSudjian_CV.pdf) · [LinkedIn](https://linkedin.com/in/eduard-sudzhian) · [e.sudzhian@gmail.com](mailto:e.sudzhian@gmail.com) · [Telegram](https://t.me/EskimoCold)
+[CV](./Eduard_Sudzhian_CV_ML.pdf) · [LinkedIn](https://linkedin.com/in/eduard-sudzhian) · [e.sudzhian@gmail.com](mailto:e.sudzhian@gmail.com) · [Telegram](https://t.me/EskimoCold)
 
 <sub>Writing ML code since I was 13. Still at it.</sub>
